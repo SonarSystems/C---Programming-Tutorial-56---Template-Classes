@@ -1,4 +1,4 @@
-C---Programming-Tutorial-56---Template-Classes
+C++ Programming Tutorial 56 - Template Classes
 ==============================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/-A2Ioki-fNs
